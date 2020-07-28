@@ -1,2 +1,7 @@
 .vscode
 env
+build
+dist
+nested_sbard.egg-info
+.pypirc
+tests
